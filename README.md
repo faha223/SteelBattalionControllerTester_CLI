@@ -9,5 +9,5 @@ This tool depends on the libusb-1.0 and ncurses, and building from source requir
 #### Building
 `make`
 
-#### Running
+## Running
 `./build/test`
